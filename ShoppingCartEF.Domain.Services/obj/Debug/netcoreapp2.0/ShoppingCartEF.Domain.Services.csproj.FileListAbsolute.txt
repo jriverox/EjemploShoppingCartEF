@@ -1,0 +1,12 @@
+e:\documentos\source\repos\ShoppingCartEFComplex\ShoppingCartEF.Domain.Services\obj\Debug\netcoreapp2.0\ShoppingCartEF.Domain.Services.csprojAssemblyReference.cache
+e:\documentos\source\repos\ShoppingCartEFComplex\ShoppingCartEF.Domain.Services\obj\Debug\netcoreapp2.0\ShoppingCartEF.Domain.Services.csproj.CoreCompileInputs.cache
+e:\documentos\source\repos\ShoppingCartEFComplex\ShoppingCartEF.Domain.Services\obj\Debug\netcoreapp2.0\ShoppingCartEF.Domain.Services.AssemblyInfoInputs.cache
+e:\documentos\source\repos\ShoppingCartEFComplex\ShoppingCartEF.Domain.Services\obj\Debug\netcoreapp2.0\ShoppingCartEF.Domain.Services.AssemblyInfo.cs
+e:\documentos\source\repos\ShoppingCartEFComplex\ShoppingCartEF.Domain.Services\bin\Debug\netcoreapp2.0\ShoppingCartEF.Domain.Services.deps.json
+e:\documentos\source\repos\ShoppingCartEFComplex\ShoppingCartEF.Domain.Services\bin\Debug\netcoreapp2.0\ShoppingCartEF.Domain.Services.dll
+e:\documentos\source\repos\ShoppingCartEFComplex\ShoppingCartEF.Domain.Services\bin\Debug\netcoreapp2.0\ShoppingCartEF.Domain.Services.pdb
+e:\documentos\source\repos\ShoppingCartEFComplex\ShoppingCartEF.Domain.Services\bin\Debug\netcoreapp2.0\ShoppingCartEF.Domain.Model.dll
+e:\documentos\source\repos\ShoppingCartEFComplex\ShoppingCartEF.Domain.Services\bin\Debug\netcoreapp2.0\ShoppingCartEF.Domain.Model.pdb
+e:\documentos\source\repos\ShoppingCartEFComplex\ShoppingCartEF.Domain.Services\obj\Debug\netcoreapp2.0\ShoppingCartEF.Domain.Services.csproj.CopyComplete
+e:\documentos\source\repos\ShoppingCartEFComplex\ShoppingCartEF.Domain.Services\obj\Debug\netcoreapp2.0\ShoppingCartEF.Domain.Services.dll
+e:\documentos\source\repos\ShoppingCartEFComplex\ShoppingCartEF.Domain.Services\obj\Debug\netcoreapp2.0\ShoppingCartEF.Domain.Services.pdb
